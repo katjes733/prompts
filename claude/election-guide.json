@@ -1,0 +1,7 @@
+{
+  "provider": "anthropic",
+  "model-family": "claude",
+  "model": "sonnet",
+  "effort": "medium",
+  "thinking": true
+}
